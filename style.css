@@ -3,31 +3,35 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
-.body  {
-    background-color: grey;
+.body {
+    background-color:#D9DFBE ;
 
 }
-.ofert{
+
+.ofert {
     text-align: center;
     margin: auto;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-    
 }
+
 * {
     padding: 0;
     margin: 0;
     font-family: monospace;
 }
-ul{
+
+ul {
     list-style: none;
-    background: #224;
+    background: rgb(15, 168, 66);
 
 }
+
 ul li {
     display: inline-block;
     position: relative;
-    
+
 }
+
 ul li a {
     display: block;
     padding: 20px 25px;
@@ -37,38 +41,27 @@ ul li a {
     font-size: 20px;
 
 }
+
 ul li ul.dropdown li {
     display: block;
 }
+
 ul li ul.dropdown {
     width: 100%;
-    background: #213d21;
+    background: #D4E09B;
     position: absolute;
     z-index: 999;
     display: none;
-   
+
 }
-ul li a:hover{
-    background: #112C66;
+
+ul li a:hover {
+    background: #9DB91B;
 }
-ul li:hover ul.dropdown{
+
+ul li:hover ul.dropdown {
     display: block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.ctext{
+    text-align: center;
+}

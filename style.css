@@ -10,10 +10,18 @@
 
 .ofert {
     text-align: center;
-    margin-left: auto;
     font-size: large;
     margin-top: auto;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 500px;
+    height: 400px;
+    margin: 120px;
+    background: #D4E09B;
+    position: absolute;
+    border-radius: 25px;
+
+
+
 }
 
 * {
@@ -42,6 +50,7 @@ ul li a {
     text-align: center;
     font-size: 20px;
 
+
 }
 
 ul li ul.dropdown li {
@@ -66,5 +75,13 @@ ul li:hover ul.dropdown {
 }
 
 .firstsection {
+    text-align: right;
+}
+
+.ctext {
+    text-align: left;
+}
+
+.btext {
     text-align: right;
 }

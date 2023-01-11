@@ -116,12 +116,14 @@ ul li:hover ul.dropdown {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
     padding: 0%;
+    text-align: center;
 
 }
 
 .check {
     cursor: pointer;
     text-align: center;
-    margin-left: auto;
-    position: relative;
+    margin: auto;
+    padding: 0%;
+
 }

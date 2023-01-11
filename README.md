@@ -1,0 +1,2 @@
+# Discord-page
+SIMPLE PAGE TO LEARN HTML AND CSS

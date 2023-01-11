@@ -20,7 +20,7 @@
     height: 400px;
     margin: 120px;
     background: #D4E09B;
-    position: absolute;
+    position: relative;
     border-radius: 25px;
 
 
@@ -87,4 +87,21 @@ ul li:hover ul.dropdown {
 
 .btext {
     text-align: right;
+}
+
+.forma {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.butt-1  {
+    text-align: center;
+    align-items: center;
+    position: relative;
+    color: yellow;
+    background-color: aqua;
+    font-size: medium;
+
+
+
 }

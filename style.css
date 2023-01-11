@@ -94,14 +94,23 @@ ul li:hover ul.dropdown {
     margin-top: 10px;
 }
 
-.butt-1  {
+.butt-1 {
     text-align: center;
     align-items: center;
     position: relative;
-    color: yellow;
+    color: black;
     background-color: aqua;
     font-size: medium;
+    border-radius: 9px;
+    font-size: medium;
+    cursor: pointer;
 
+}
 
+.butt-1:hover {
+    background-color: #FFF;
+}
 
+.smalltext {
+    font-size: small;
 }
